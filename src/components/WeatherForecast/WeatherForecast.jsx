@@ -1,5 +1,4 @@
 import WeatherData from './WeatherData'
-import './WeatherForecast.css'
 import WeatherIcon from './WeatherIcon'
 
 function WeatherForecast({day, img, imgAlt, conditions, time}) {
